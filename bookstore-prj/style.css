@@ -1,0 +1,82 @@
+*{
+    background-color: burlywood;
+}
+#txt1{
+    text-align: center;
+    letter-spacing: 15px;
+    text-transform: capitalize;
+}
+
+#img1{
+    border: 1px;
+    border-radius: 25%;
+    display: block;
+    margin: 0 auto;
+}
+#img2{
+    border: 1px;
+    border-radius: 25%;
+}
+#persion-t1{
+    word-spacing: 10px;
+    color: goldenrod;
+    direction: rtl;
+    background-color: darkolivegreen;
+    text-align: center;
+    text-shadow: 3px 3px 3px greenyellow;
+    font-size: 45px;
+}
+
+#persion-t2{
+    font-size: 20px;
+    text-align: center;
+    direction: rtl;
+    word-spacing: 10px;
+    background-color: peru;
+    color: white;
+    text-shadow: 3px 3px 3px rgb(172, 85, 23);
+    border: 5px solid greenyellow;
+    border-radius: 10%;
+}
+#persion-t3{
+    direction: rtl;
+    text-align: right;
+    color: black;
+    text-shadow: 3px 3px 3px brown;
+}
+
+#persion-t4{
+    padding: 10px;
+    border: 5px solid peru;
+    outline: 5px solid brown;
+    font-size: 25px;
+    direction: rtl;
+    text-align: right;
+    color: green;
+    text-shadow: 3px 3px 3px greenyellow;
+}
+#persion-t5{
+    
+    direction: rtl;
+    text-align: center;
+    color: black;
+    text-shadow: 3px 3px 3px brown;
+}
+
+a{
+    color: cornsilk;
+    text-shadow: 3px 2px 3px brown;
+    font-size: 40px;
+    padding: 50px;
+    margin: 500px;
+    
+}
+th{
+    border: 5px gold;
+    font-size: 20px;
+
+}
+#img1{
+    display: block;
+    margin: 0 auto;
+}
